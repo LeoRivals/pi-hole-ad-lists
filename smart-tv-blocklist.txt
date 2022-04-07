@@ -12,8 +12,12 @@ samsung.net/ads
 # 
 # LG
 ngfts.lge.com
+lgsmartad.com
+ad.lgsmartad.com
 us.ad.lgsmartad.com
 us.info.lgsmartad.com
+mx.ad.lgsmartad.com
+mx.info.lgsmartad.com
 lgad.cjpowercast.com
 edgesuite.net
 #Additional domains:
